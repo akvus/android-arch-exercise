@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy cars app</string>
+    <string name="price">Price</string>
+    <string name="fuel_type">Fuel type</string>
+    <string name="vendor">Vendor</string>
+    <string name="pickup">Pickup</string>
+    <string name="_return">return</string>
+</resources>
